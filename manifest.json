@@ -1,0 +1,9 @@
+{
+  "name": "Khusi Jewellers",
+  "short_name": "Khusi Jewels",
+  "description": "Explore a premium collection of gold and silver jewellery at Khusi Jewellers. Discover elegant designs, trusted quality, and timeless craftsmanship for every occasion.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D4AF37"
+}
